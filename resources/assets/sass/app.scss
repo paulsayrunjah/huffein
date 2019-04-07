@@ -1,0 +1,21 @@
+
+// Fonts
+//@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+//@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+//bulma
+@import "~bulma/bulma.sass";
+@import "~datatables-bulma/css/dataTables.bulma.min.css";
+
+@import "./components/helper.scss";
+@import "./components/nav.scss";
+
+body{
+    background-color: #E2E1E4;
+    min-height: 100vh;
+}

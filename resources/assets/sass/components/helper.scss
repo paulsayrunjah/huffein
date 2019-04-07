@@ -1,0 +1,44 @@
+.section{
+    padding: 1.5rem
+}
+
+.mg-1{
+    margin: 1em;
+}
+
+.card{
+    background-color: white;
+    padding: 1rem;
+}
+.container-margin{
+    margin: 10px 25px;
+}
+.auto-scroll{
+    overflow: auto;
+}
+
+.pull-up{
+    margin-top: -20px;
+}
+.vh-one-third{
+    height: 30vh;
+}
+.vh-third{
+    height: 40vh;
+}
+
+table{
+    thead{
+        background-color: #26292D;
+        th{
+            color:#cccccc !important;
+            border-width: 0px !important;
+            font-weight: 400;
+            padding: 3px !important;
+        }
+    }
+
+    td{
+        padding: 3px !important;
+    }
+}
